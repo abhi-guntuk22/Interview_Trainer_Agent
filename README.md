@@ -43,7 +43,9 @@ Week 3 & 4: Building a Chat Bot, AI/ML experiments on the cloud, and a deep dive
 Successful completion required active participation, completion of at least two courses on IBM SkillsBuild, and the submission of a final project presentation. This internship was offered with no stipend.
 
 💡 Project: Inteview Trainer Agent
+
 Problem Statement
+
 An AI-powered Interview Trainer Agent uses Retrieval-Augmented 
 Generation (RAG) to create personalized interview questions, answers, 
 and preparation tips based on a user’s job role, experience, and profile. 
@@ -52,11 +54,14 @@ resources, helping candidates build confidence, sharpen responses,
 and improve success rates in competitive interviews..
 
 
+Solution Overview
+
 An AI‑powered interview preparation solution was developed to help candidates practice for job interviews effectively. The system uses Retrieval‑Augmented Generation (RAG) to generate personalized interview questions, concise answers, preparation tips, and curated resource links based on the user’s role, experience level, and profile.
 
 The final agent was deployed as a real‑time web application on the IBM Cloud platform, making it accessible to users for interactive interview practice.
 
 ⚙️ Technology Stack
+
 Cloud Platform: IBM Cloud
 AI/ML Service: IBM Watsonx.ai Studio
 Model: IBM Granite (LLM for contextual Q&A)
@@ -64,7 +69,10 @@ Agent Development: IBM Agent Lab
 Backend: Python (Flask)
 Frontend: HTML, CSS
 Containerization: Docker for IBM Code Engine
+
+
 🚀 Project Workflow
+
 User Data Intake: The agent collects role, experience, and profile details to personalize preparation.
 Content Retrieval: Using RAG, the agent retrieves role‑specific interview content from trusted sources.
 Question Generation: The Granite model generates technical, HR, and behavioral interview questions with concise answers.
@@ -73,6 +81,7 @@ Deployment: The fully trained agent was deployed as a web application via IBM Co
 Testing: The application was validated through real‑time queries, ensuring relevance and accuracy of responses.
 
 📊 Results
+
 The deployed Interview Trainer Agent successfully generated relevant, role‑specific interview questions, concise answers, preparation tips, and curated resource links for multiple job roles and experience levels.
 Personalization: Delivered customized content based on user inputs (role, experience).
 Diversity: Generated technical, HR, and behavioral questions across different domains.
@@ -81,5 +90,6 @@ Ease of Use: Designed with a clean web interface for an accessible, user‑frien
 <img width="903" height="907" alt="Screenshot 2025-08-01 105633" src="https://github.com/user-attachments/assets/936d1db1-8c8e-489d-b1bf-1fd9a845bdfd" />
 
 This project successfully demonstrated how AI + RAG can enhance interview preparation, meeting all objectives for final evaluation and submission.
+
 
 
