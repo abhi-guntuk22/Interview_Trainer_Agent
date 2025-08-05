@@ -87,10 +87,14 @@ The deployed Interview Trainer Agent successfully generated relevant, role‑spe
 Personalization: Delivered customized content based on user inputs (role, experience).
 Diversity: Generated technical, HR, and behavioral questions across different domains.
 Real‑Time Performance: Provided instant responses through its IBM Cloud‑hosted web application.
-Ease of Use: Designed with a clean web interface for an accessible, user‑friendly experience.<img width="891" height="874" alt="Screenshot 2025-08-01 105654" src="https://github.com/user-attachments/assets/359fdbf0-1184-459d-b9b4-a48580969552" />
+Ease of Use: Designed with a clean web interface for an accessible, user‑friendly experience.
+
 <img width="903" height="907" alt="Screenshot 2025-08-01 105633" src="https://github.com/user-attachments/assets/936d1db1-8c8e-489d-b1bf-1fd9a845bdfd" />
+<img width="891" height="874" alt="Screenshot 2025-08-01 105654" src="https://github.com/user-attachments/assets/359fdbf0-1184-459d-b9b4-a48580969552" />
+
 
 This project successfully demonstrated how AI + RAG can enhance interview preparation, meeting all objectives for final evaluation and submission.
+
 
 
 
