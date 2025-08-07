@@ -51,7 +51,7 @@ This project uses **Retrieval-Augmented Generation (RAG)** with IBM Granite LLM 
 - Generate **role-specific** interview questions with answers  
 - Recommend **tips & practice links** (InterviewBit, GFG, etc.)  
 - Provide a real-time **AI-driven interview simulation** experience  
-- Host the app as a **cloud-deployed web application**
+
 
 ---
 
@@ -59,8 +59,7 @@ This project uses **Retrieval-Augmented Generation (RAG)** with IBM Granite LLM 
 - **Cloud Platform:** IBM Cloud  
 - **AI Model:** IBM Granite (LLM)  
 - **Development:** IBM Watsonx.ai Studio + Agent Lab  
-- **UI:** Flask Web App (Optional UI Enhancements)  
-- **Language:** Python 3.11+  
+
 
 ---
 
@@ -76,8 +75,7 @@ This project uses **Retrieval-Augmented Generation (RAG)** with IBM Granite LLM 
 ## 📊 Results
 - ✅ Successfully deployed on IBM Cloud  
 - ✅ Delivered tailored, high-quality interview content  
-- ✅ Integrated real-time answers, tips, and clickable learning links  
-- ✅ Easy-to-use UI (CLI/Flask Interface)  
+- ✅ Integrated real-time answers, tips, and clickable learning links   
 - ✅ Met all capstone evaluation requirements  
 
 **Screenshots:**
@@ -86,19 +84,12 @@ This project uses **Retrieval-Augmented Generation (RAG)** with IBM Granite LLM 
 
 ---
 
-## 📁 Repository Contents
-
 
 <img width="903" height="907" alt="Screenshot 2025-08-01 105633" src="https://github.com/user-attachments/assets/936d1db1-8c8e-489d-b1bf-1fd9a845bdfd" />
 <img width="891" height="874" alt="Screenshot 2025-08-01 105654" src="https://github.com/user-attachments/assets/359fdbf0-1184-459d-b9b4-a48580969552" />
 
 
 This project successfully demonstrated how AI + RAG can enhance interview preparation, meeting all objectives for final evaluation and submission.
-
-## 📁 Repository Contents
-
----
-
 
 
 ---
@@ -107,6 +98,7 @@ This project successfully demonstrated how AI + RAG can enhance interview prepar
 ```bash
 git clone https://github.com/abhi-guntuk22/Interview_Trainer_Agent.git
 cd Interview_Trainer_Agent
+
 
 
 
