@@ -12,8 +12,6 @@ An AI-powered Interview Trainer Agent developed as part of the **IBM SkillsBuild
 - ⚙️ Technology Stack
 - 🚀 Project Workflow
 - 📊 Results
-- 📁 Repository Contents
-- ✨ Demo (if available)
 - 📂 Clone This Project
 
 ---
@@ -88,7 +86,7 @@ This project uses **Retrieval-Augmented Generation (RAG)** with IBM Granite LLM 
 
 ---
 
-
+## 📁 Repository Contents
 
 
 <img width="903" height="907" alt="Screenshot 2025-08-01 105633" src="https://github.com/user-attachments/assets/936d1db1-8c8e-489d-b1bf-1fd9a845bdfd" />
@@ -101,8 +99,7 @@ This project successfully demonstrated how AI + RAG can enhance interview prepar
 
 ---
 
-## ✨ Demo
-> [Click here to try the agent (Web link if deployed)](https://your-deployment-url.com)
+
 
 ---
 
@@ -110,6 +107,7 @@ This project successfully demonstrated how AI + RAG can enhance interview prepar
 ```bash
 git clone https://github.com/abhi-guntuk22/Interview_Trainer_Agent.git
 cd Interview_Trainer_Agent
+
 
 
 
